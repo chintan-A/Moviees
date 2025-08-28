@@ -1,4 +1,4 @@
- # 🎬 Moviees – React Native App (Expo)
+# 🎬 Moviees – React Native App (Expo)
 
 **Moviees** is a sleek, cross-platform mobile application built with **React Native (Expo)** using **TypeScript**. It provides a smooth user experience, easy customization, and a modular codebase—ideal for developers or entrepreneurs looking for a ready-to-launch mobile app.
 
@@ -30,3 +30,9 @@ Experience Moviees live:
 ---
 
 ##  Installation & Running Locally
+
+```bash
+git clone https://github.com/chintan-A/Moviees
+cd Moviees
+npm install
+npm run start
